@@ -1,0 +1,999 @@
+
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+	<script type="text/javascript">
+(function(a){function b(a,b){if(+a)return~a||(d.cookie=h+"=; path=/");j=d.createElement(e),k=d.getElementsByTagName(e)[0],j.src=a,b&&(j.onload=j.onerror=b),k.parentNode.insertBefore(j,k)}function c(){n.api||b(l.shift()||-1,c)}if(this.Mobify)return;var d=document,e="script",f="mobify",g="."+f+".com/",h=f+"-path",i=g+"un"+f+".js",j,k,l=[!1,1],m,n=this.Mobify={points:[+(new Date)],tagVersion:[6,1],ajs:"//a.mobify.com/ieee-spectrum-mobile-edition-1/a.js"},o=/((; )|#|&|^)mobify-path=([^&;]*)/g.exec(location.hash+"; "+d.cookie);o?(m=o[3])&&!+(m=o[2]&&sessionStorage[h]||m)&&(l=[!0,"//preview"+g+escape(m)]):(l=a()||l,l[0]&&l.push("//cdn"+i,"//files01"+i)),l.shift()?(d.write('<plaintext style="display:none;">'),setTimeout(c)):b(l[0])})(function(){
+		if(/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit|bb1\d.*mobile/i.test(navigator.userAgent) || (/iPad/.test(navigator.userAgent) && !/Safari/.test(navigator.userAgent)) ){console.debug("mobify enabled");return[1,"//cdn.mobify.com/sites/ieee-spectrum-mobile-edition-1/production/mobify.js"]}
+		else{
+//		console.debug("mobify not enabled");
+		};
+		return[0,Mobify.ajs];
+	})
+</script>
+	<meta charset="utf-8">
+
+	
+
+	<title>The 2015 Top Ten Programming Languages - IEEE Spectrum</title>
+
+	
+	<meta name="viewport" content="width=1024">
+
+	
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE; chrome=1"/>
+	<![endif]-->
+
+    
+
+    
+	
+	
+	
+	
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css"/>
+	<link rel="stylesheet" href="/assets/frontend-3d9669bcb5e2fa52b144bf960d52e310.css"/>
+
+	
+
+    
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+
+	
+
+	<script type="text/javascript" src="/assets/header/header-2fca869ee14503f3a87282a60a05c741.js" ></script>
+
+	
+	
+	
+
+	<link rel="icon" href="/favicon.png" type="image/png" />
+	<!-- begin static module global-head-spectrum4 -->
+<style>
+.wide-slides{
+clear:both
+}
+.wide-slides article {
+    padding: 0 16px 0 0;
+}
+.four-top, .three-top, .two-two-top{
+float:left;
+width:100%;
+}
+.carousel .carousel-inner .item-num {
+    font-family: "Theinhardt-Regular", sans-serif;
+}
+
+.carousel .carousel-control.left, .carousel .carousel-control.right {
+z-index:99;
+}
+
+.topic-articles .three-top .item {
+height:340px;
+}
+</style>
+<script src="//cdn.optimizely.com/js/2588060129.js"></script>
+
+<script><!--
+$(function(){
+$(".article-options-bar #trending").hide()
+});
+//--></script>
+<script>
+if(window.location.href.match(/^.*5-ways-experts-think-the-fbi.*Tech_Alert_04142016.*$/) != null) {
+var newUrl = "/transportation/mass-transit/londons-crossrail-is-a-21-billion-test-of-virtual-modeling" + window.location.search;
+//console.log(newUrl);
+window.location.replace(newUrl);
+}
+</script>
+<!-- end static module -->
+
+
+	
+	<script type="text/javascript">
+					var adinfo = {
+					"zone":"computing", 
+					"addomain":"f.site220.tmus"
+					}
+				</script>
+	<!-- begin static module gpt-header-standard-module -->
+<!-- GPT Header Standard Code -->
+<script type="text/javascript">
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement("script");
+gads.async = true;
+gads.type = "text/javascript";
+var useSSL = "https:" == document.location.protocol;
+gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+var node =document.getElementsByTagName("script")[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<!-- end static module -->
+
+	<!-- begin static module gpt-header-ad-comp-module -->
+<script>
+	googletag.cmd.push(function() {
+	googletag.defineSlot("/309482/" + adinfo.addomain + "/" + adinfo.zone, [728, 90], "div-gpt-ad-leaderboard").setTargeting('pos', ['1']).addService(googletag.pubads())
+	googletag.defineSlot("/309482/" + adinfo.addomain + "/" + adinfo.zone, [728, 90], "div-gpt-ad-leaderboard-2").setTargeting('pos', ['2']).addService(googletag.pubads())
+	googletag.defineSlot("/309482/" + adinfo.addomain + "/" + adinfo.zone, [300, 250], "div-gpt-ad-med-rectangle").addService(googletag.pubads())
+	googletag.defineSlot("/309482/" + adinfo.addomain + "/" + adinfo.zone, [300, 600], "div-gpt-ad-halfpage").addService(googletag.pubads())
+	googletag.enableServices();
+});
+</script>
+<!-- end static module -->
+
+
+	
+    <meta name="layout" content="spectrum"/>
+    
+
+    
+        <meta name="description" content="New languages enter the scene, and big data makes its mark"/>
+    
+    
+        <link rel="image_src" href="/image/MjY1MTgzMw"/>
+    
+
+
+
+    
+
+
+<!-- Google Analytics -->
+<script class="ga-tag">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-747464-1', 'auto');
+ga('send', 'pageview');
+ga('set', 'dimension1', 'article-FEATURE');
+ga('set', 'dimension2', 'false');
+ga('set', 'dimension3', 'Stephen Cass');
+
+</script>
+<!-- End Google Analytics -->
+
+
+<!-- Open Graph Tags --><meta property='og:site_name' content='IEEE Spectrum: Technology, Engineering, and Science News'/><meta property='og:title' content='The 2015 Top Ten Programming Languages'/><meta property='og:url' content='http://spectrum.ieee.org/computing/software/the-2015-top-ten-programming-languages'/><meta property='og:description' content='New languages enter the scene, and big data makes its mark'/><meta property='og:image' content='http://spectrum.ieee.org/image/MjY1MTgzMw'/><meta property='og:type' content='article'/><!-- Other Tags --><meta name='bt:id' content='2651141'><meta name='bt:author' content='Stephen Cass'><meta name='bt:pubDate' content='2015-07-20T15:12:00Z'><meta name='bt:modDate' content='2015-07-20T16:35:15Z'><meta name='bt:keywords' content='c, c#, c++, cuda, idl, java, r, swift, top programming languages, topic_computing, subtopic_software'>
+<!-- Parsely Tags --><meta name="parsely-page" content='{"title":"The 2015 Top Ten Programming Languages","link":"http://spectrum.ieee.org/computing/software/the-2015-top-ten-programming-languages","image_url":"http://spectrum.ieee.org/image/MjY1MTgzMg","type":"post","post_id":"/computing/software/the-2015-top-ten-programming-languages","pub_date":"2015-07-20T15:12:00Z","section":"Features","author":"Stephen Cass","tags":["c","c#","c++","cuda","idl","java","r","swift","top programming languages","medium.online-only","type.article","topic.computing","subtopic.software"]}'>
+
+
+
+	<link rel="alternate" title="IEEE Spectrum Recent Content full text" href="http://feeds.feedburner.com/IeeeSpectrumFullText" type="application/rss+xml">
+</head>
+
+<body class="pageBody" onload="">
+	
+	
+		
+<script type="text/template" id="tmpl-interstitial-ad">
+	<div id="tmpl-slashpage">
+		<div id="header" style="background: #5a5a5a;text-align:right; padding:20px; overflow:auto; margin-bottom:25px;">
+			<img src="/assets/logo-main-feb42a39ad411519bd3bbfbf85743dfe.png" alt="IEEE Spectrum logo" style="float: left;height: 40px;"/>
+			<a href="javascript:splashpage.closeit()">Continue to site&nbsp;➔</a>
+		</div>
+		<div style="color:gray; font-size:18px; text-align:center; margin-bottom:8px;">ADVERTISEMENT</div>
+		<iframe name="splashpage-iframe" src="about:blank" scrolling="no" seamless="seamless" style="overflow:hidden; padding:0; z-index:6000000; width:660px; height:500px; margin:0 auto; display:block;" frameborder="0"></iframe>
+	</div>
+</script>
+		
+<script>
+	splashpage.splashenabled=1;
+	splashpage.splashpageurl= '/interstitial?splashType=welcome';
+	splashpage.enablefrequency=1;
+	splashpage.displayfrequency='sessiononly';
+	splashpage.cookiename = ['interstitialpagecookie2707049', 'path=/'];		
+	splashpage.autohidetimer=15;
+	splashpage.enablecounter=true;
+	splashpage.counter=1;
+	splashpage.timeremaining=0;
+	splashpage.sessiononlyCookieLifeTime=24;
+	if (splashpage.browserdetectstr && splashpage.splashenabled==1) {
+        //console.info('initializing interstitial ad');
+        splashpage.init();
+        //console.info('interstitial ad init finished');
+    }
+</script>
+	
+
+	<a href="/" class="backtotop"></a>
+<header id="header">
+	
+	<style>
+header #ieee-metanav ul li a:hover {
+    color: #03a6e3;
+}
+</style>
+
+<div id="ieee-metanav" role="banner">
+    <div class="wrap">
+        <ul class="inline-list">
+            <li><a href="http://www.ieee.org" target="_blank">IEEE.org</a></li>
+            <li class="sep">|</li>
+            <li><a href="http://ieeexplore.ieee.org" target="_blank">IEEE <em>Xplore</em> Digital Library</a></li>
+            <li class="sep">|</li>
+            <li><a href="http://standards.ieee.org" target="_blank">IEEE Standards</a></li>
+            <li class="sep">|</li>
+            <li><a href="/"><span>IEEE Spectrum</span></a></li>
+            <li class="sep">|</li>
+            <li><a href="http://www.ieee.org/sitemap" target="_blank">More Sites</a></li>
+        </ul>
+    </div>
+</div>
+<section id="masthead">
+    <div class="masthead-wrap">
+        <div class="brand-space" role="img">
+            <a href="/" id="brand">
+                <img src="/assets/logo-main-feb42a39ad411519bd3bbfbf85743dfe.png" alt="IEEE Spectrum logo"/>
+            </a>
+
+            <div id="social-space">
+                <span class="follow">Follow on:</span>
+                <ul class="inline-list social-links">
+                    
+                    
+                    <li><a href="http://www.facebook.com/IEEE.Spectrum" target="_blank"><span class="faceBook"></span></a></li>
+                    <li><a href="http://twitter.com/#!/IEEESpectrum" target="_blank"><span class="twitter"></span></a></li>
+                    <li><a href="http://www.linkedin.com/groups/IEEE-Spectrum-1982451?home=&gid=1982451&trk=anet_ug_hm" target="_blank"><span class="linkedIn"></span></a></li>
+                    <li><a href="https://plus.google.com/105079317383160047042/posts" target="_blank"><span class="google"></span></a></li>
+                    <li><a href="/static/rss" target="_blank"><span class="rssFeed"></span></a></li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="ad-space" role="img">
+            <span>Advertisement</span>
+
+            <div class="leaderboard-wrap">
+                <!-- begin static module gpt-body-ad-module-728-90 -->
+<div id="div-gpt-ad-leaderboard" style="728px; height: 90px">
+						<script type="text/javascript">
+						googletag.cmd.push(function() {
+						googletag.display("div-gpt-ad-leaderboard");
+						});
+						</script>
+					</div>
+<!-- end static module -->
+
+            </div>
+        </div>
+    </div>
+</section>
+	<nav id="mainNav" role="navigation">
+
+	
+	<div class="commonwrap">
+		<ul class="primary" role="menubar">
+			<li><a href="#" onclick="return false;" id="topics"><span class="trunc">Engineering </span>Topics<span class="arrow-icon">&nbsp;</span></a></li>
+			<li><a href="#" onclick="return false;" id="reports"><span class="trunc">Special </span>Reports<span class="arrow-icon">&nbsp;</span></a></li>
+			<li><a href="#" onclick="return false;" id="blogs">Blogs<span class="arrow-icon">&nbsp;</span></a></li>
+			<li><a href="#" onclick="return false;" id="multimedia">Multimedia<span class="arrow-icon">&nbsp;</span></a></li>
+			<li><a href="#" onclick="return false;" id="magazine"><span class="trunc">The </span>Magazine<span class="arrow-icon">&nbsp;</span></a></li>
+			<li><a href="#" onclick="return false;" id="resources"><span class="trunc">Professional </span>Resources<span class="arrow-icon">&nbsp;</span></a></li>
+			<li><a href="#" onclick="return false;" class="last" id="searchmenu">Search<span class="arrow-icon">&nbsp;</span></a></li>
+		</ul><!-- /.primary -->
+	</div>	
+	
+	<div class="slider collapsed" role="landmark">
+		<div id="menuCentered">
+			<div id="menuContainer"></div>
+		</div>
+	</div>
+	
+	
+</nav>
+</header>
+	
+<div id="main" role="main">
+    <div class="wrap">
+        <section id="medium-content">
+            <article id="2651141" class="article-detail">
+                <ul id="breadcrumbs">
+                    <li>Feature
+                    </li>
+                    <li><a href="/computing">Computing</a></li>
+                    <li><a href="/computing/software">Software</a></li>
+                </ul>
+
+                <h1 class="article-title">The 2015 Top Ten Programming Languages</h1>
+
+                <h2>New languages enter the scene, and big data makes its mark</h2>
+
+                <div class="metadata" role="contentinfo">
+                    <div class="metadata" role="contentinfo">
+    <div class="byline">
+    
+            By <a href="/author/cass-stephen">Stephen Cass</a>
+            <div>Posted <label style='cursor:default' datetime="">20 Jul 2015 | 15:12 GMT</label></div>
+        	
+        
+    </div>
+    
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="float: right;" class="addthis_sharing_toolbox"></div>
+</div>
+
+                    
+
+
+<script type="text/javascript" class="addthis" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4f4cf61812d7916f"></script>
+
+                </div>
+
+                
+                    <div id="artBody">
+                        
+                        <div class="articleBody entry-content">
+                            <figure class="xlrg" role="img"><img alt="programming languages opening illustration" src="/img/programminglanguagesiStockphoto57301224-1436903428324.jpg" />
+<figcaption class="hi-cap">Illustration: iStockphoto</figcaption>
+</figure>
+
+<p>What are the most popular programming languages? The only honest answer: It depends. Are you trying to land a job at a hot mobile app startup, model electricity flows across a continent, or create an electronic art project? Languages are tools, and what&rsquo;s a &ldquo;must have&rdquo; in one domain can be a &ldquo;whatever&rdquo; in another. So for the second year in a row, <em>IEEE Spectrum</em> has teamed up with computational journalist&nbsp;<a href="http://www.nickdiakopoulos.com/">Nick Diakopoulos</a> to give you a popularity ranking that you can adjust to meet your own needs.</p>
+
+<p>Our ranking system is driven by weighting and combining 12 metrics from 10 data sources. We believe these sources&mdash;such as the <a href="http://ieeexplore.ieee.org/Xplore/home.jsp">IEEE Xplore</a> digital library, <a href="https://github.com/">GitHub</a>, and <a href="http://www.careerbuilder.com/">CareerBuilder</a>&mdash;are good proxies for the popularity of 48 languages along a number of different dimensions. The weighting of these sources can be adjusted in our <a href="/static/interactive-the-top-programming-languages-2015">interactive Web app</a> to give, say, more importance to languages that have turned up in job ads. Filters can be applied so that you can see only languages relevant to mobile or embedded development, for example. (<a href="/static/interactive-the-top-programming-languages-2015">Access to the Web app is US $0.99</a>.)</p>
+
+<p>We put a number of preset weightings into the app for convenience; the default is the <em>IEEE Spectrum</em> ranking, with weights chosen to broadly represent the interests of IEEE members, and here are this year&rsquo;s top 10 languages from that weighting. (The column on the left is the 2015 ranking; the column on the right is the 2014 ranking for comparison.)</p>
+
+<div class="imgWrapper xlrg"><a href="/static/interactive-the-top-programming-languages-2015"><img alt="1: Java; 2: C; 3: C++; 4: Python; 5: C#; 6: &amp;; 7: PHP; 8: Javascript; 9: Ruby; 10: Matlab" src="/img/top-tech-620px-1436797486093.jpg" /></a></div>
+
+<p>The big five&mdash;Java, C, C++, Python, and C#&mdash;remain on top, with their ranking undisturbed, but C has edged to within a whisper of knocking Java off the top spot. The big mover is <a href="http://www.r-project.org/">R, a statistical computing language</a> that&rsquo;s handy for analyzing and visualizing big data, which comes in at sixth place. Last year it was in ninth place, and its move reflects the growing importance of big data to a number of fields. A significant amount of movement has occurred further down in the rankings, as languages like Go, Perl, and even Assembly jockey for position.</p>
+
+<p>A few languages have dropped off the rankings compared with last year&rsquo;s. Mostly this is due to an insufficient presence in this year&rsquo;s data to justify keeping them in. But in one case, an entry was dropped because we agreed with comments on last year&rsquo;s ranking that said we had made a mistake in categorizing it as a language rather than just a framework. This was ASP.NET, and we had originally included it because of our pragmatic approach to the definition of programming language&mdash;a lack of Turing completeness is not an absolute bar, and we make no apologies for including things like HTML&mdash;but we were too broad on that one.</p>
+
+<p>A number of languages have entered the rankings for the first time. <a href="https://developer.apple.com/swift/">Swift</a>, Apple&rsquo;s new language, has already gained enough traction to make a strong appearance despite being released only 13 months ago. <a href="https://developer.nvidia.com/cuda-zone">Cuda</a> is another interesting entry&mdash;it&rsquo;s a language created by graphics chip company Nvidia that&rsquo;s designed for general-purpose computing using the company&rsquo;s powerful but specialized graphics processors, which can be found in many desktop and mobile devices. Seven languages in all are appearing for the first time.</p>
+
+                        </div>
+                    </div>
+                
+                
+
+<section class="learn-more" role="menu">
+     <h5>Learn More</h5>
+     
+
+ <style>
+  u {
+	text-decoration: none;
+  }
+</style>
+<span style="text-decoration:underlined;">
+	
+	
+		<a href="/tag/C">C</a>
+	     
+	
+		<a href="/tag/C%23">C#</a>
+	     
+	
+		<a href="/tag/C%2B%2B">C++</a>
+	     
+	
+		<a href="/tag/Cuda">Cuda</a>
+	     
+	
+		<a href="/tag/IDL">IDL</a>
+	     
+	
+		<a href="/tag/Java">Java</a>
+	     
+	
+		<a href="/tag/R">R</a>
+	     
+	
+		<a href="/tag/Swift">Swift</a>
+	     
+	
+		<a href="/tag/Top+Programming+Languages">Top Programming Languages</a>
+	    
+	
+
+</span>
+</section>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<div style="margin: 10px 0;" class="addthis_sharing_toolbox"></div>
+
+<section id="comments-section" role="complementary">
+  <div class="split">
+    <div class="column">
+      <h6 class="section-title">Comments</h6>
+    </div>
+    <div class="column last align-right">
+      <div class="policy"><a href="/static/comment-policy">Comment Policy</a></div>
+    </div>
+    <div class="clear"></div>
+  </div>
+  <div id="disqus_thread"></div>
+
+<script type="text/javascript">
+  var disqus_shortname = 'ieeespectrum';
+  var disqus_identifier = '/computing/software/the-2015-top-ten-programming-languages';
+  var disqus_title = 'The 2015 Top Ten Programming Languages';
+  var disqus_url = 'http://spectrum.ieee.org/computing/software/the-2015-top-ten-programming-languages';
+
+  
+  (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the &lt;a
+  href="http://disqus.com/?ref_noscript"&gt;comments powered by
+  Disqus.&lt;/a&gt;</noscript>
+  <a href="http://disqus.com" class="dsq-brlink">Comments powered
+by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </article>
+        </section>
+        <section id="iso-content">
+            <div class="articles" role="article">
+                <article class="item sml_article ad-item-related corner-item recent-item" style="width: 300px; height: 270px;" >
+	<!-- begin static module gpt-body-ad-module-300-250 -->
+<div class="ad-module">
+	<div class="adtext">Advertisement</div>
+		<div id="div-gpt-ad-med-rectangle" style="300px; height: 250px">
+			<script type="text/javascript">
+				googletag.cmd.push(function() {
+					googletag.display("div-gpt-ad-med-rectangle");
+				});
+		</script>
+	</div>
+</div>
+<!-- end static module -->
+
+</article>
+    <article id="2753110" class="item sml_article related-item recent-item robotics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/automaton/robotics/industrial-robots/video-friday-soft-robot-marshmallow-automation-dancing-hubo"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MzU0MA" width="300" height="225"/>
+                <figcaption>Robotics</figcaption>
+            </figure>
+            <h3 class="article-title">Video Friday: Soft Robot Challenge, Marshmallow Automation, and Dancing Hubo</h3>
+            <p>Your weekly selection of awesome robot videos
+            
+            	<span class="pubDate"><time>13&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2753454" class="item sml_article related-item recent-item consumer-electronics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/consumer-electronics/portable-devices/engineer-and-investor-in-spat-about-wireless-charging-startup-ubeam"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MzQ3NQ" width="300" height="225"/>
+                <figcaption>Gadgets</figcaption>
+            </figure>
+            <h3 class="article-title">Engineer and Investor in Spat About Wireless Charging Startup uBeam</h3>
+            <p>Former engineer says uBeam hyped its tech, investor says he never heard it from him
+            
+            	<span class="pubDate"><time>13&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2753280" class="item sml_article related-item recent-item semiconductors"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/semiconductors/design/rfonly-logic-could-cut-rfid-size-and-cost"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MzI5OQ" width="300" height="225"/>
+                <figcaption>Semiconductors</figcaption>
+            </figure>
+            <h3 class="article-title">RF-Only Logic Makes RFID Tags Tinier</h3>
+            <p>New kind of power supply for RFID and IoT logic circuits could eliminate a sizable chunk of circuitry
+            
+            	<span class="pubDate"><time>13&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2753038" class="item sml_article related-item recent-item semiconductors"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/semiconductors/optoelectronics/nanofins-make-a-better-hologram"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MzM3NQ" width="300" height="225"/>
+                <figcaption>Semiconductors</figcaption>
+            </figure>
+            <h3 class="article-title">Nanofins Make a Better Hologram</h3>
+            <p>Meta-Holograms Work At Any Wavelength
+            
+            	<span class="pubDate"><time>13&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2753127" class="item sml_article related-item recent-item telecom"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/telecom/wireless/building-myanmars-first-mobile-network-from-the-ground-up"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MzE0MA" width="300" height="225"/>
+                <figcaption>Telecom</figcaption>
+            </figure>
+            <h3 class="article-title">Building Myanmar’s First Mobile Network From The Ground Up</h3>
+            <p>After decades of repressive rule, consumers are demanding 3G service
+            
+            	<span class="pubDate"><time>13&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+<article class="item sml_article ad-item corner-item recent-item" style="width: 300px; height: 620px;" >
+	<!-- begin static module gpt-body-ad-module-300-600 -->
+<div class="ad-module">
+	<div class="adtext">Advertisement</div>
+		<div id="div-gpt-ad-halfpage" style="300px; height: 600px">
+			<script type="text/javascript">
+				googletag.cmd.push(function() {
+					googletag.display("div-gpt-ad-halfpage");
+				});
+		</script>
+	</div>
+</div>
+<!-- end static module -->
+
+</article>
+    <article id="2752367" class="item sml_article related-item recent-item telecom"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/telecom/wireless/5g-researchers-achieve-new-spectrum-efficiency-record"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MjM2Ng" width="300" height="225"/>
+                <figcaption>Telecom</figcaption>
+            </figure>
+            <h3 class="article-title">5G Researchers Set New World Record For Spectrum Efficiency</h3>
+            <p>They showed a 22-fold increase over existing 4G networks
+            
+            	<span class="pubDate"><time>12&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2752608" class="item sml_article related-item recent-item computing"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/computing/hardware/advanced-research-projects-from-darpas-pentagon-demo-day"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1Mjk4Ng" width="300" height="225"/>
+                <figcaption>Computing</figcaption>
+            </figure>
+            <h3 class="article-title">Advanced Research Projects from DARPA's Pentagon Demo Day</h3>
+            <p>DARPA shows off all of its cool new toys
+            
+            	<span class="pubDate"><time>12&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2752574" class="item sml_article related-item recent-item semiconductors"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/nanoclast/semiconductors/materials/spintronic-devices-from-topological-insulators-inch-closer"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MjU4NQ" width="300" height="225"/>
+                <figcaption>Semiconductors</figcaption>
+            </figure>
+            <h3 class="article-title">Spintronic Devices From Topological Insulators Inch Closer</h3>
+            <p>Mating a topological insulator with a stable magnetic material produces surprising results
+            
+            	<span class="pubDate"><time>12&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751507" class="item sml_article related-item recent-item biomedical"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/the-human-os/biomedical/diagnostics/competition-seeks-to-solve-biomedicines-big-data-problem"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTUwNg" width="300" height="225"/>
+                <figcaption>Biomedical</figcaption>
+            </figure>
+            <h3 class="article-title">Six Creative Ways to Solve Biomedicine's Big Data Problem</h3>
+            <p>International teams compete to develop tools to harness biomedical big data
+            
+            	<span class="pubDate"><time>12&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751931" class="item sml_article related-item recent-item robotics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/automaton/robotics/drones/microspines-make-it-easy-for-drones-to-perch-on-walls-and-ceilings"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MjU4Ng"/>
+                <figcaption>Robotics</figcaption>
+            </figure>
+            <h3 class="article-title">Microspines Make It Easy for Drones to Perch on Walls and Ceilings</h3>
+            <p>Perching drones can extend their useful mission life from minutes to hours or days
+            
+            	<span class="pubDate"><time>12&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751149" class="item sml_article related-item recent-item consumer-electronics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/view-from-the-valley/consumer-electronics/gadgets/this-wearable-is-a-cure-for-motion-sickness-and-is-changing-my-life"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MjA2Mg" width="300" height="225"/>
+                <figcaption>Gadgets</figcaption>
+            </figure>
+            <h3 class="article-title">This Wearable Is a Cure for Motion Sickness and Is Changing My Life</h3>
+            <p>The first consumer generation of the ReliefBand is too big, ugly, and looks and feels like a cheap toy. And I will never again leave the house without it.
+            
+            	<span class="pubDate"><time>11&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751625" class="item sml_article related-item recent-item transportation"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/cars-that-think/transportation/self-driving/volvos-selfdriving-program-will-have-redundancy-for-everything"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MjAzMA" width="300" height="225"/>
+                <figcaption>Transportation</figcaption>
+            </figure>
+            <h3 class="article-title">Volvo's Self-Driving Program Will Have Redundancy For Everything</h3>
+            <p>The cars will have two independent motors to be sure that at least one of them turns the steering wheel
+            
+            	<span class="pubDate"><time>11&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751904" class="item sml_article related-item recent-item consumer-electronics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/consumer-electronics/gadgets/gauntlets-of-levitation-living-desktops-and-more-video-highlights-from-the-2016-humancomputer-interaction-conference"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MjA4Ng" width="300" height="225"/>
+                <figcaption>Gadgets</figcaption>
+            </figure>
+            <h3 class="article-title">Gauntlets of Levitation, Living Desktops, and More: Video Highlights from The 2016 Human-Computer Interaction Conference</h3>
+            <p>Some of the craziest computer interaction prototypes we've ever seen are on display this week in San Jose
+            
+            	<span class="pubDate"><time>11&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751698" class="item sml_article related-item recent-item  sponsored-content videomodule"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/video/semiconductors/materials/looking-ahead-4-tomorrows-materials"> 
+            <span class="videoicon">&nbsp;</span>
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTcwNA" width="300" height="225"/>
+                <figcaption>Sponsored</figcaption>
+            </figure>
+            <h3 class="article-title">Looking Ahead 4 Tomorrow's Materials</h3>
+            <p>This video is brought to you by our partners
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751853" class="item sml_article related-item recent-item telecom"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/tech-talk/telecom/internet/facebook-aims-to-place-users-firmly-in-control-with-revisions-to-bot-platform"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTg5NA" width="300" height="225"/>
+                <figcaption>Telecom</figcaption>
+            </figure>
+            <h3 class="article-title">Facebook Revises Bot Platform to Place Messenger Users Firmly in Control</h3>
+            <p>No one wants to deal with a pesky bot that won’t shut up
+            
+            	<span class="pubDate"><time>10&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2748428" class="item sml_article related-item recent-item robotics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/view-from-the-valley/robotics/drones/stanford-ai-grads-launch-lowish-cost-underwater-robot"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MDQ4Nw"/>
+                <figcaption>Robotics</figcaption>
+            </figure>
+            <h3 class="article-title">Stanford AI Grads Launch Low(ish)-Cost Underwater Robot</h3>
+            <p>This underwater drone is looking for work at fish farms—and as a research robot at universities
+            
+            	<span class="pubDate"><time>10&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751543" class="item sml_article related-item recent-item semiconductors"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/nanoclast/semiconductors/materials/2d-semiconductor-glows-20000-times-more-brightly"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTU1NQ" width="300" height="225"/>
+                <figcaption>Semiconductors</figcaption>
+            </figure>
+            <h3 class="article-title">2-D Semiconductor Glows 20,000 Times as Brightly as Ever Before</h3>
+            <p>Plasmonic nanostructures push tungsten diselenide to massive increase in photoluminescence
+            
+            	<span class="pubDate"><time>10&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751518" class="item sml_article related-item recent-item robotics"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/automaton/robotics/drones/quadrotors-have-learned-to-dodge-swords"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTU5MQ" width="300" height="225"/>
+                <figcaption>Robotics</figcaption>
+            </figure>
+            <h3 class="article-title">Why You Should Be Glad That Quadrotors Have Learned to Dodge Swords</h3>
+            <p>A Stanford roboticist (and fencer) discusses drones, swords, and why mixing them is such a great idea
+            
+            	<span class="pubDate"><time>10&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2751424" class="item sml_article related-item recent-item transportation"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/cars-that-think/transportation/self-driving/how-should-a-selfdriving-car-tell-you-it-needs-you-to-take-over"> 
+            
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTQzNw" width="300" height="225"/>
+                <figcaption>Transportation</figcaption>
+            </figure>
+            <h3 class="article-title">How Should a Self-Driving Car Tell You to Take the Wheel?</h3>
+            <p>Experts say self-driving cars should start with vibrations in your seat
+            
+            	<span class="pubDate"><time>10&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+    <article id="2750642" class="item sml_article related-item recent-item transportation videomodule"  >
+        <!-- <span class="blur">&nbsp;</span> -->
+        <a href="/video/transportation/alternative-transportation/effortless-biking-with-the-geoorbital-ewheel"> 
+            <span class="videoicon">&nbsp;</span>
+            <figure>
+                <div class="shade">&nbsp;</div>
+                <img class="lazy" src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" data-original="/image/Mjc1MTMyMA" width="300" height="225"/>
+                <figcaption>Transportation</figcaption>
+            </figure>
+            <h3 class="article-title">Effortless Biking With the GeoOrbital E-Wheel</h3>
+            <p>The startup’s snap-in wheel assembly contains all you need for electric propulsion
+            
+            	<span class="pubDate"><time>10&nbsp;May</time></span>
+            
+            </p>
+    	</a>
+    </article>
+
+            </div>
+        </section>
+    </div>
+</div>
+
+
+
+	<footer id="global-footer" role="landmark">
+
+	
+    <div id="topFooter" role="region" >
+        <div class="commonwrap" role="section">
+            <a href="/">
+                
+                <img src="/assets/footer-logo-54ded86f182c0bcf8f26c9de4cb7c8f7.png" class="footerLogo" alt="IEEE Spectrum logo" width="270" role="img"/>
+            </a>
+            <div id="footerTopMenu" role="navigation">
+                <ul class="topics" role="menu">
+                    <h4 role="heading">Topics</h4>
+                    
+                        <li role="menuitem"><a href="/aerospace">Aerospace</a></li>
+                    
+                        <li role="menuitem"><a href="/at-work">At Work</a></li>
+                    
+                        <li role="menuitem"><a href="/biomedical">Biomedical</a></li>
+                    
+                        <li role="menuitem"><a href="/computing">Computing</a></li>
+                    
+                        <li role="menuitem"><a href="/energy">Energy</a></li>
+                    
+                        <li role="menuitem"><a href="/consumer-electronics">Gadgets</a></li>
+                    
+                        <li role="menuitem"><a href="/geek-life">Geek Life</a></li>
+                    
+                        <li role="menuitem"><a href="/green-tech">Green Tech</a></li>
+                    
+                        <li role="menuitem"><a href="/robotics">Robotics</a></li>
+                    
+                        <li role="menuitem"><a href="/semiconductors">Semiconductors</a></li>
+                    
+                        <li role="menuitem"><a href="/telecom">Telecom</a></li>
+                    
+                        <li role="menuitem"><a href="/transportation">Transportation</a></li>
+                    
+                </ul>
+
+                <ul class="social-links" role="menu">
+                    <h4 role="heading">Connect</h4>
+                    <li role="menuitem"><a href="http://www.facebook.com/IEEE.Spectrum" class="icn-sml" target="_blank"><span class="faceBook"></span>Facebook</a></li>
+                    <li role="menuitem"><a href="http://twitter.com/#!/IEEESpectrum" class="icn-sml" target="_blank"><span class="twitter"></span>Twitter</a></li>
+					<li role="menuitem"><a href="http://www.linkedin.com/groups/IEEE-Spectrum-1982451?home=&gid=1982451&trk=anet_ug_hm" class="icn-sml" target="_blank"><span class="linkedIn"></span>LinkedIn</a></li>
+                    <li role="menuitem"><a href="https://plus.google.com/105079317383160047042/posts" class="icn-sml" target="_blank"><span class="google"></span>Google+</a></li>
+                    <li role="menuitem"><a href="/static/rss" class="icn-sml" target="_blank"><span class="rssFeed"></span>RSS</a></li>
+                </ul>
+
+                <ul class="spectrum-footer-links" role="menu">
+                    <h4 role="heading">IEEE Spectrum</h4>
+                    <li role="menuitem"><a href="/static/contactus">Contact Us</a></li>
+                    <li role="menuitem"><a href="/static/aboutus">About</a></li>
+                    <li role="menuitem"><a href="/static/newsletters">Newsletters</a></li>
+                    <li role="menuitem"><a href="http://m.spectrum.ieee.org/">Mobile Site</a></li>
+                    <li role="menuitem"><a href="http://ieeespectrumreprints.magreprints.com/" target="_blank">Reprints &amp; Permissions</a></li>
+                    <h4 class="footerTitle" role="heading">IEEE Partners</h4>
+                    <li role="menuitem"><a href="http://advertise.ieee.org">Advertising &amp; Media Center</a></li>
+                    <li role="menuitem"><a href="http://careers.ieee.org/">IEEE Job Site</a></li>
+                    <li role="menuitem"><a href="http://spectrumsuppliermarketplace.com/">Buyer&rsquo;s Guide</a></li>
+                </ul>
+
+                <ul class="magazine-links" role="menu">
+                    <h4 role="heading">The Magazine</h4>
+                    <li role="menuitem"><a href="/magazine"><img src="/assets/x-7616b49c48ca0cd6cbd15e9f747c8886.gif" class="lazy" data-original="/image/Mjc0ODA3NA" width="100" height="133" alt="Magazine cover image"/></a></li>
+                    <li role="menuitem"><a href="/static/readerservices">Subscribe Now</a></li>
+                    <li role="menuitem"><a href="http://www.qmags.com/subscribers">Digital Download</a></li>
+                </ul>
+            </div>
+
+            <ul id="footerCopy">
+                <li id="copyrightTag" role="contentinfo">&copy; Copyright 2016 IEEE Spectrum</li>
+                <li role="menu" id="policyNav"><a href="http://www.ieee.org/site_terms_conditions.html">Terms &amp; Conditions</a> | <a href="http://www.ieee.org/privacy">Privacy &amp; Opting Out of Cookies</a> | <a href="http://www.ieee.org/accessibility_statement.html">Accessibility</a> | <a href="http://www.ieee.org/nondiscrimination">Nondiscrimination Policy</a></li>
+            </ul>
+        </div>
+    </div>
+
+	
+    <div id="subFooter" role="navigation">
+        <div class="commonwrap" role="region">
+            <a href="http://www.ieee.org">
+                <img src="/assets/ieee-logo-851bf96265ef3f9dfa532b4db93f0843.png" class="footerLogo" width="142" height="41" alt="IEEE logo" role="img"/>
+            </a>
+
+            <div id="footerSubMenu" role="section">
+                <ul role="menu">
+                    <li role="menuitem"><a href="http://www.ieee.org/about/index.html">About IEEE</a></li>
+                    <li role="menuitem"><a href="http://www.ieee.org/conferences_events/index.html">Conferences &amp; Events</a></li>
+                    <li role="menuitem"><a href="http://www.ieee.org/education_careers/index.html">Education &amp; Careers</a></li>
+                </ul>
+
+                <ul role="menu">
+                    <li role="menuitem"><a href="http://www.ieee.org/membership_services/index.html">Membership &amp; Services</a></li>
+                    <li role="menuitem"><a href="http://www.ieee.org/publications_standards/index.html">Publications and Standards</a></li>
+                    <li role="menuitem"><a href="http://www.ieee.org/societies_communities/index.html">Societies &amp; Communities</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+	
+
+<script type="text/javascript" src="/assets/footer/footer-eb9e30a605d6d8012a1325599a9dddac.js" ></script>
+
+
+<script type="text/javascript">
+    function ss_track(slideshow_image, image_number, image_name, image_caption, path_to_assets) {
+        _gaq.push(['_setAccount', 'UA-747464-1']);
+        _gaq.push(['_trackEvent', 'Slideshows', 'Change Slide', '', image_number, true]);
+    }
+</script>
+
+    <!-- begin static module boomtrain-script -->
+<script src="http://d3r7h55ola878c.cloudfront.net/btn/1.0.1/btn.js"></script>
+<script> 
+BOOMTRAIN_API_KEY_1 = 'fc09a30ba1a4b43d0cc9990be2df89bb';
+BOOMTRAIN_API_KEY_2 = '571946a28d8432a3096babce5a9b2b82'; 
+ 
+_btn.setAPIKeys(BOOMTRAIN_API_KEY_1,BOOMTRAIN_API_KEY_2);  
+
+// Anonymous Initialization (no login / email) 
+_btn.initialize();
+</script>
+<!-- end static module -->
+
+    
+<!-- Boomtrain Tracking -->
+<script>
+_btn.track('shared', {
+    id: '2651141',
+    model: 'article'
+})
+</script>
+
+    
+        <!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+<div id="parsely-cfg" data-parsely-site="spectrum.ieee.org"></div>
+</div>
+<script>
+(function(s, p, d) {
+var h=d.location.protocol, i=p+"-"+s,
+e=d.getElementById(i), r=d.getElementById(p+"-root"),
+u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+:"static."+p+".com";
+if (e) return;
+e = d.createElement(s); e.id = i; e.async = true;
+e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+    
+
+
+
+
+
+
+
+
+	
+</body>
+</html>

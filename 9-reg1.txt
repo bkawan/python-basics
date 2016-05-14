@@ -1,0 +1,1081 @@
+<!doctype html>
+<html>
+<head>
+	<title>Jr. Java Developer (Computer - Programming): Job Detail in Jobs Nepal</title>
+ 	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Lang" content="en" />
+	<meta http-equiv="keywords" content="Jobs in Nepal" name="keywords"/>
+	
+	<meta name="keyword" content="Jr. Java Developer, jobs in nepal, nepalese job market, work in nepal, employment in nepal, career nepal, employment nepal, nepal job market, nepali job market, job sites in nepal, job nepal, nepal job, nepaljobsite, nepal job site, nepalijobsite, nepali job site, vacancy in nepal, vacancies in nepal, career in nepal,  naukari, jagir, jaagir, naukri, nokari, nepal and jobs, jobs and nepal, nepal online jobs, jobs nepal, nepal jobs, nepali jobs, job in nepal, nepali job, job opportunity in nepal, find a job in nepal, find jobs in nepal, it jobs nepal, jobsnepal, nepaljobs, rojgaar nepal, ramro kaam nepal, ramro jagir, ramro jaagir, ramro job, high paying job, jobs for students, student job" />
+	<meta name="author" content="JobsNepal.com offers to find a job /  place vacancies" />
+	<meta name="description" content="Jr. Java Developer Detail in Jobs Nepal- Jobs in Nepal at JobsNepal.com - An online job search engine for the job seekers in Nepal. The common search engine for job seekers, recruiters and employers." />
+	
+	<!--Facebook meta tags-->
+	<meta property="og:image" content="http://www.jobsnepal.com/images/logo.png"/>
+	<meta property="og:title" content="Jr. Java Developer (Computer - Programming): Job Detail in Jobs Nepal"/>
+	<meta property="og:site_name" content="JobsNepal.com"/>
+	<meta property="og:type" content="website"/>
+	<meta property="fb:admins" content="100001300325146"/>
+
+	
+	<!--twitter cards-->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:image" content="http://www.jobsnepal.com/images/logo.png">
+	<meta name="twitter:site" content="@JobsNepalDotCom">
+	<meta name="twitter:creator" content="@JobsNepalDotCom">
+
+	<link href="http://www.jobsnepal.com/js/jui/css/ui-lightness/jquery-ui-1.10.0.custom.css" rel="stylesheet" />
+	
+	<link rel="stylesheet" type="text/css" href="http://www.jobsnepal.com/css/basics.css?v=1462138916" />
+	<link rel="stylesheet" type="text/css" href="http://www.jobsnepal.com/css/details.css?v=1392090214" />
+	<link rel="stylesheet" type="text/css" href="http://www.jobsnepal.com/css/popup.css?v=1381459321" />
+	<link rel="stylesheet" type="text/css" href="http://www.jobsnepal.com/css/g-tabs.css?v=1370483658" />
+
+	<script src="http://www.jobsnepal.com/js/jquery-1.7.2.min.js?v=1364067163"></script>
+	<!--[if lte IE 8]>
+		<link rel="stylesheet" type="text/css" href="http://www.jobsnepal.com/css/ie8-n-7.css?v=1371517165" />
+	<![endif]-->
+
+	<!--[if IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://www.jobsnepal.com/css/ie7.css?v=1368571008" />
+	<![endif]-->
+
+</head>
+<body class="jn-public">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="jn-wrapper">
+	<div id="header-wrapper">
+		<div id="header">
+			<div id="header1" class="home">
+				<a id="site-logo" href="http://www.jobsnepal.com/">
+					<img src="http://www.jobsnepal.com/images/logo.png" />
+				</a>
+				<span id="jobsnepal-13-years">
+					<b>16</b>
+					<i>years</i> 
+				</span>
+				<div class="header-forms">
+	
+		<div style="height:8px;!important;display:block;"></div>
+	<div id="header-form-wrapper">
+		<div>
+			<form name="company_login_form" id="company_login_form" method="post" action="http://www.jobsnepal.com/login.php">
+				<div>
+					<input type="text" name="UserName" id="UserName" class="text-box jn-sprite user-text" value="Username"  />
+					<input type="password" name="Password" id="Password" class="text-box jn-sprite pwd-text" value="Password"  />
+					<a href="#" id="btn-login-submit" class="normal jn blue button " >Login</a>
+					<div class="clear"></div>
+				</div>
+				<div>
+					<div style="display: inline-block;float: left;width: 123px;" id="signup-top-div">
+						<a href="#" id="signup-pop-link" class="jn-sprite signup" >Sign Up</a>
+					</div>
+					<a href="#" title="Click if you've forgotten your password" class="jn-sprite forgotpassword">Forgot my password</a>
+					<div class="clear"></div>
+				</div>
+			</form>
+		</div>
+		<!--Popup Menu-->
+		<div id="signup-dropdown-menu-box" class="popup">
+			<div class="ptr ptr-center">
+				<div class="ptr-img"></div>
+			</div>
+			<div class="body">
+				<div class="content-area">
+					<ul class="popup-menu">
+						<li><a href="http://www.jobsnepal.com/jobseeker-signup">Job Seeker Signup</a></li>
+						<li><a href="http://www.jobsnepal.com/employer-signup">Employer Signup</a></li>
+					</ul>
+				</div>
+				
+			</div>
+		</div>
+	</div><!-- header-form-wrapper -->
+	</div>				<div id="social-shares" class="f-right"> 
+	<div id="facebook-like" class="f-left margin-r-5">
+		<div data-href="https://www.facebook.com/jobsnepalcom" class="fb-like" data-send="true" data-layout="button_count" data-width="130" data-show-faces="false"></div>
+	</div>
+	
+	<div id="google-plus" class="f-left">
+		<!-- Place this tag where you want the +1 button to render. -->
+		<div class="g-plusone" data-size="medium" data-annotation="none" data-href="https://plus.google.com/104004954657414581456/"></div>
+
+		<!-- Place this tag after the last +1 button tag. -->
+		<script type="text/javascript">
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+		    po.src = 'https://apis.google.com/js/plusone.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+	</div>
+	<div class="clear"></div>
+</div>				<div class="clear"></div>
+			</div>
+			
+			<div class="header2">
+				
+<ul class="sf-menu">
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/" >Jobs Home</a>
+
+    </li>
+
+    
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/search-jobs" >Search</a>
+
+        <ul>
+
+            <li><a href="http://www.jobsnepal.com/search-jobs" >Search Job </a></li>
+
+            <li><a href="http://www.jobsnepal.com/search-employers" >Search Employer</a></li>
+
+        </ul>
+
+    </li>
+
+
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/advertise" >Advertise</a>
+
+    </li>
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/company-accounts" >Company Accounts</a>
+
+    </li>
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/about-us" >About Us</a>
+
+    </li>
+    
+    <li>
+        <a href="" >Career Center</a>
+        <ul>
+            <li><a href="http://www.jobsnepal.com/career" >Articles</a></li>
+            <li><a href="http://www.jobsnepal.com/gallery" >Gallery</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        <a href="" >Services</a>
+        <ul>
+            <li><a href="http://www.jobsnepal.com/services/directrecruitment" >Direct Recruitment</a></li>
+            <li><a href="http://www.jobsnepal.com/services/outsourcing" >Outsourcing</a></li>
+            <li><a href="http://www.jobsnepal.com/services/vacancy" >Vacancy Anouncement</a></li>
+            <li><a href="http://www.jobsnepal.com/services/webbanner" >Web Banner Advertisement</a></li>
+        </ul>
+    </li>
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/help" >Help</a>
+
+        <ul>
+
+            <li><a href="http://www.jobsnepal.com/frequently-asked-questions" ><abbr >FAQ</abbr></a></li>
+
+            <li><a href="http://www.jobsnepal.com/help" >Help</a></li>
+
+        </ul>
+
+    </li>
+
+    <li>
+
+        <a href="http://www.jobsnepal.com/contact-us" >Contact Us</a>
+
+    </li>
+
+</ul>			</div>
+		</div>
+	</div>
+    <div class="clear"></div>
+	<div id="content-wrapper">
+		<div id="content" >
+			
+			<div id="column-left">
+				<!--Hot Jobs-->
+				<div class="hotjobs-box">
+	<div id="hotjobs-box-header">
+		<div id="hot-fire"></div>
+	    <h2>Hot Jobs</h2>
+	</div>
+	<!--Here goes the hot job list -->
+</div>
+<div style="text-align: right;">
+<a href="http://www.jobsnepal.com/hot-jobs" class="jn-sprite more-results" value="More Hot Jobs">More</a></div>
+			</div>
+			<div id="column-right">
+				<!-- Banner Ads-->
+				<div id="list-of-items-left-container" class="left-sidebar">
+	<div id="left-sidebar-title"></div>
+	<div id="list-of-items-left">
+		<div class="ajax-loader" style="margin-top: -10px;"></div>
+	</div>
+	 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Right Side Banner -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:300px"
+     data-ad-client="ca-pub-3154640974217376"
+     data-ad-slot="6114516647"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<div class="fb-like-box" data-href="https://www.facebook.com/jobsnepalcom" data-width="212" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false"></div>
+			</div>
+			<div id="column-main-centered">
+				<div id="cr-inner-wrapper">
+					<div id="cr-inner">
+						<div id="centered-content-wrapper">
+							<!--X1 Block will be inserted via javascript-->
+							<div id="main-content-wrapper" style="width:93.5% !important;">
+		<h1>Jr. Java Developer : Detail</h1>
+	
+	<div id="main-content">
+		 
+	<div class="content-box" id="jn-content-page" style="overflow: visible;">
+  <div id="right-details-block">
+      <div id="job-apply" class="jdr-box margin-b-10">
+    <h3>Application Deadline</h3>
+    <div class="box-content">
+      <span class="apply-before-date">Thu, 02 Jun 2016</span>
+          </div>
+
+          <h3>To apply</h3>
+      <div class="box-content">
+          Please note the application procedure mentioned above and apply accordingly.      </div>
+    
+          <h3>Special Instructions</h3>
+      <div class="box-content">
+        Please submit your updated Resume to hr@f1soft.com      </div>
+      
+
+    <div class="jn" >
+          </div>
+</div>
+
+<div id="related-jobs-box" class="jdr-box margin-b-10">
+  <a href="http://www.jobsnepal.com/category/computer-programming/86">See related jobs</a>
+</div>
+
+
+
+  </div><!--right block -->
+
+  <div id="left-details-block">
+    <div>
+      <div id="job-detail-small" class="margin-b-10">
+  <div id="about-company" class="f-right">
+            <div class="box-title">About the Company</div>
+      
+      <div class="box-content">
+                <div class="margin-b-10">
+          <ul>
+            <li>
+              Company:              
+                              <a href="http://www.jobsnepal.com/employer/f1soft-international-pvt-ltd/7866">F1Soft International Pvt Ltd.</a>
+                          </li>
+
+            <li>
+              Industry: Computer  Software            </li>
+            <li>
+              Address: Hattisar            </li>
+          </ul>
+        </div>
+        <div class="links">
+                    <a href="http://www.jobsnepal.com/employer/f1soft-international-pvt-ltd/7866">View Company Profile</a>
+                    <a href="http://www.jobsnepal.com/jobs-by-company/f1soft-international-pvt-ltd/7866">Show other Jobs</a>
+        </div>
+      </div>
+  </div>
+  <div id="job-overview">
+    <div class="box-title">Job Overview</div>
+    <ul>
+      <li>
+        <label>Category:</label>  
+        <span>
+        Computer - Programming        </span>
+      </li>
+
+      
+      <li>
+        <label>Position Type:</label>  
+        <span>Full Time</span>
+      </li>
+
+      <li>
+        <label>Experience:</label>  
+        <span>1+ years</span>
+      </li>
+      
+      <li>
+        <label>Openings:</label>  
+        <span>1</span>
+      </li>
+
+      <li>
+        <label>Education:</label>  
+        <span>Bachelors in Computer Science</span>
+      </li>
+
+      <li>
+        <label>City:</label>  
+        <span>
+          Kathmandu        </span>
+      </li>
+    </ul>
+
+  </div>
+  <div class="clear"></div>
+</div>
+    </div>
+    <h2>Detailed Job Description / Requirements</h2>
+    <div class="detail-text">
+      <p><span style="font-size: 10pt;"><strong>Job Description:</strong></span></p>
+<ul>
+<li>Interface with Project Managers to understand product requirements and create a development plan.</li>
+<li>Develop new features and fix bugs in existing projects.</li>
+<li>Work with QA and build engineers to ensure the application can be built properly and tested.</li>
+<li>Produce technical documentation for new features implemented.</li>
+</ul>
+<p><span style="font-size: 10pt;"><strong>Job Specification:</strong></span></p>
+<ul>
+<li>Experience on Java/J2EE.</li>
+<li>Experience with Version control e.g. SVN.</li>
+<li>Participate in product development using an agile, iterative process.</li>
+<li>&nbsp;Familiar with J2EE, JPA,Hibernate, JDBC,JSF&nbsp;,Rich Faces,&nbsp;J Query,Web services.</li>
+<li>Strong Object Oriented Programming skill, including MVC, Delegation, Singleton, Observer and Factory Design Pattern.</li>
+<li>Experience with Memory Management, Thread, REST, JSON/XML Parsing.</li>
+<li>Build in quality, reusable code and processes to all development activity.</li>
+<li>Excellent verbal and written communication skills.</li>
+<li>Strong analytical, debugging and troubleshooting skills and ability to work under a tight schedule and meet deadlines.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>F1soft International</strong> is looking for Junior Java Programmer&nbsp;for the head office located in Kathmandu.</p>
+<p>Intetrested Candidates with Bachelor&rsquo;s degree in Computer Science, Information Technology/Management or related field. having one year or more experience can forward your CV at <strong>hr@f1soft.com.</strong></p>
+<p>&nbsp;</p>                </div>
+
+    <div style="display:block; margin: 0 auto; margin-top: 20px;margin-bottom: 20px;height:40px">
+            <div class="jn f-left margin-b-5 margin-r-5" >
+              </div>
+
+      <div class="jn f-left margin-b-5 margin-r-5" >
+        <a class="button" href="http://www.jobsnepal.com/send-job/jr-java-developer/97552">
+          Email it
+        </a>
+      </div>
+
+      <div id="twitter-tweet" class="f-left margin-r-5" style="padding-top: 2px; width:400px !important;">
+        <div style="float:left;"><a href="https://twitter.com/share" class="twitter-share-button">Tweet</a>
+        <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+                 <div style="float:left; margin-right:5px;"><a href="http://www.jobsnepal.com/job/jr-java-developer/97552" data-image="7866_F1®.jpg" data-title="Jr. Java Developer (Computer - Programming): Job Detail in Jobs Nepal" data-desc="Jr. Java Developer Detail in Jobs Nepal- Jobs in Nepal at JobsNepal.com - An online job search engine for the job seekers in Nepal. The common search engine for job seekers, recruiters and employers." class="btnShare"><img src="http://sites.jobsnepal.com/jnimg/share.jpg"/></a> </div><div class="fb-like" data-href="http://www.jobsnepal.com/job/jr-java-developer/97552" data-layout="standard" data-action="like" data-show-faces="true" data-share="false" data-width="100"></div>
+      </div>
+
+      <div class="clear"></div>
+    </div>
+    
+  </div>
+  <div class="clear"></div>
+</div><!--Content box -->
+
+
+	
+		</div>
+</div>						</div>
+					</div>
+				</div>
+                <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+                <!-- Bottom Banner -->
+                <ins class="adsbygoogle"
+                     style="display:inline-block;width:728px;height:90px"
+                     data-ad-client="ca-pub-3154640974217376"
+                     data-ad-slot="1980525043"></ins>
+                <script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+                </script>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="clear"></div>
+		<div class="hotjobs-box-content hjb-left" id="hot-jobs-content-holder">
+		<div id="hotjobList">
+			<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/vso-nepal/2032" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/2032_101_vso.jpg" />
+			</a>
+			<div class="content">
+								<h3> VSO Nepal</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/proposal-development-manager-regional/97611" title="Proposal Development Manager (Regional)" target="_blank">Proposal Development Manager (Regional)</a></li><li><a href="http://www.jobsnepal.com/hotjob/action-learner-team-leader/97525" title="Action Learner/ Team Leader" target="_blank">Action Learner/ Team Leader</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/one-heart-world-wide/7889" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7889_240_heart.gif" />
+			</a>
+			<div class="content">
+								<h3> One Heart World-Wide</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/e-health-program-manager/97610" title="e-Health Program Manager " target="_blank">e-Health Program Manager </a></li><li><a href="http://www.jobsnepal.com/hotjob/district-coordinators/97519" title="District Coordinators" target="_blank">District Coordinators</a></li><li><a href="http://www.jobsnepal.com/hotjob/training-field-supervisors/97518" title="Training/Field supervisors" target="_blank">Training/Field supervisors</a></li></ul><a href="#" class="see-more">See All (3)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/helen-keller-international/5160" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/5160_125_hkithumb.jpg" />
+			</a>
+			<div class="content">
+								<h3> Helen Keller International</h3>
+								<a href="http://www.jobsnepal.com/hotjob/internal-audit-manager-district-coordinator/97586" title="Internal Audit Manager/ District Coordinator" target="_blank">Internal Audit Manager/ District Coordinator</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/ebpearls-pvt-ltd/2376" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/2376_86_eb.jpg" />
+			</a>
+			<div class="content">
+								<h3> ebPearls Pvt. Ltd</h3>
+								<a href="http://www.jobsnepal.com/hotjob/project-manager/97567" title="Project Manager" target="_blank">Project Manager</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/naphix-technology-pvt-ltd/9396" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9396_695_Naphix_jpg-2.jpg" />
+			</a>
+			<div class="content">
+								<h3> Naphix Technology Pvt. Ltd</h3>
+								<a href="http://www.jobsnepal.com/hotjob/php-ci-developer/97565" title="PHP/CI Developer" target="_blank">PHP/CI Developer</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/percoid-it-solutions/8100" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8100_317_percoid-thumbsnail.jpg" />
+			</a>
+			<div class="content">
+								<h3> Percoid IT Solutions</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/ios-app-developer-android-experts-may-apply-as-well/97577" title="iOS App Developer (Android experts may apply as well)" target="_blank">iOS App Developer (Android experts may apply as well)</a></li><li><a href="http://www.jobsnepal.com/hotjob/quality-assurer-tester/97497" title="Quality Assurer / Tester" target="_blank">Quality Assurer / Tester</a></li><li><a href="http://www.jobsnepal.com/hotjob/mid-to-senior-level-asp-net-developer/97002" title="Mid to Senior level ASP.NET Developer" target="_blank">Mid to Senior level ASP.NET Developer</a></li></ul><a href="#" class="see-more">See All (3)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/tearfund-nepal/9004" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9004_557_tearfund.gif-1.gif" />
+			</a>
+			<div class="content">
+								<h3> Tearfund Nepal</h3>
+								<a href="http://www.jobsnepal.com/hotjob/shelter-officer/97564" title="Shelter Officer" target="_blank">Shelter Officer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/norlha-helping-people-in-the-himalayas/8141" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8141_299_norloha-2.jpg" />
+			</a>
+			<div class="content">
+								<h3> Norlha Helping People in the Himalayas</h3>
+								<a href="http://www.jobsnepal.com/hotjob/admin-finance-officer/97549" title="Admin & Finance Officer" target="_blank">Admin & Finance Officer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/esewa-fonepay-pvt-ltd/9394" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9394_693_esewa-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> eSewa Fonepay Pvt. Ltd. </h3>
+								<a href="http://www.jobsnepal.com/hotjob/sr-quality-assurance-officer/97536" title="Sr. Quality Assurance Officer" target="_blank">Sr. Quality Assurance Officer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/gorkha-brewery-p-ltd/8156" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8156_303_gorkha-berwery-logo-1.jpg" />
+			</a>
+			<div class="content">
+								<h3> Gorkha Brewery (P) Ltd.</h3>
+								<a href="http://www.jobsnepal.com/hotjob/brewing-processing-in-charge/97535" title="Brewing & Processing In charge" target="_blank">Brewing & Processing In charge</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/mdm-france/8551" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8551_412_mdm2.jpg" />
+			</a>
+			<div class="content">
+								<h3> MDM France</h3>
+								<a href="http://www.jobsnepal.com/hotjob/medical-coordinator/97533" title="Medical Coordinator" target="_blank">Medical Coordinator</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/metro-vibes-pvt-ltd/7837" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7837_265_metro_70x50.jpg" />
+			</a>
+			<div class="content">
+								<h3> Metro Vibes Pvt. Ltd.</h3>
+								<a href="http://www.jobsnepal.com/hotjob/senior-php-developer-software-engineer-laravel/97529" title="Senior PHP Developer / Software Engineer (Laravel)" target="_blank">Senior PHP Developer / Software Engineer (Laravel)</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/international-medical-corps-nepal/8927" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8927_537_IMC2.jpg" />
+			</a>
+			<div class="content">
+								<h3> International Medical Corps Nepal</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/mnh-clinical-update-trainer-sba/97524" title=" MNH Clinical Update Trainer (SBA)" target="_blank"> MNH Clinical Update Trainer (SBA)</a></li><li><a href="http://www.jobsnepal.com/hotjob/logistics-officer/97215" title="Logistics Officer" target="_blank">Logistics Officer</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/sunaulo-parivar-nepal/9113" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9113_676_SPN-logo1.jpg" />
+			</a>
+			<div class="content">
+								<h3> Sunaulo Parivar Nepal</h3>
+								<a href="http://www.jobsnepal.com/hotjob/jr-consultant-pop-up-volunteer-supervisor-field-based/97520" title="Jr. Consultant - Pop Up Volunteer Supervisor (Field Based)" target="_blank">Jr. Consultant - Pop Up Volunteer Supervisor (Field Based)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/rigo-technologies-private-limited/7091" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7091_156_RigoTech-2.jpg" />
+			</a>
+			<div class="content">
+								<h3> Rigo Technologies Private Limited</h3>
+								<a href="http://www.jobsnepal.com/hotjob/marketing-manager-sales-officer/97516" title="Marketing Manager / Sales Officer" target="_blank">Marketing Manager / Sales Officer</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/acted/8855" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8855_502_ACTED-Logo-1.jpg" />
+			</a>
+			<div class="content">
+								<h3> ACTED</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/sct-assessment-assistant/97521" title="SCT Assessment Assistant" target="_blank">SCT Assessment Assistant</a></li><li><a href="http://www.jobsnepal.com/hotjob/sct-assessment-officer/97522" title="SCT Assessment Officer" target="_blank">SCT Assessment Officer</a></li><li><a href="http://www.jobsnepal.com/hotjob/information-management-officer/97500" title="Information Management Officer" target="_blank">Information Management Officer</a></li><li><a href="http://www.jobsnepal.com/hotjob/project-coordinator/97502" title="Project Coordinator" target="_blank">Project Coordinator</a></li></ul><a href="#" class="see-more">See All (4)</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/drilp-iii/3312" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/3312_692_drilp-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> DRILP-III</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/planning-monitoring-and-reporting-manager-mis-specialist-de-engineer-ssc-district-engineer-s/97508" title="Planning, monitoring and reporting manager, (MIS) specialist, DE engineer, SSC, District Engineer, S" target="_blank">Planning, monitoring and reporting manager, (MIS) specialist, DE engineer, SSC, District Engineer, S</a></li><li><a href="http://www.jobsnepal.com/hotjob/finance-officer-administrative-assistant/97509" title="FINANCE OFFICER / ADMINISTRATIVE ASSISTANT" target="_blank">FINANCE OFFICER / ADMINISTRATIVE ASSISTANT</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/global-digital/8066" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8066_277_Glogo-70X50.jpg" />
+			</a>
+			<div class="content">
+								<h3> Global Digital</h3>
+								<a href="http://www.jobsnepal.com/hotjob/ios-app-developer/97485" title="IOS App Developer" target="_blank">IOS App Developer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/focus-nepal/8225" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8225_324_focus-thumb.jpg" />
+			</a>
+			<div class="content">
+								<h3> FOCUS-Nepal </h3>
+								<a href="http://www.jobsnepal.com/hotjob/project-co-ordinator-programme-coordinator-admin-finance-officer/97466" title="Project Co-ordinator/ Programme Coordinator/ Admin/Finance officer" target="_blank">Project Co-ordinator/ Programme Coordinator/ Admin/Finance officer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/aasaman-nepal/8171" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8171_486_Aasaman-Nepal-new-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> Aasaman Nepal</h3>
+								<a href="http://www.jobsnepal.com/hotjob/admin-and-finance-officer/97462" title="Admin and Finance officer " target="_blank">Admin and Finance officer </a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/bee-technology-pvt-ltd/9380" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9380_689_Bee-technology.jpg" />
+			</a>
+			<div class="content">
+								<h3> Bee Technology Pvt.Ltd.</h3>
+								<a href="http://www.jobsnepal.com/hotjob/marketing-executive-communication-manager/97461" title="MARKETING EXECUTIVE/ COMMUNICATION MANAGER " target="_blank">MARKETING EXECUTIVE/ COMMUNICATION MANAGER </a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/synergy-info-systems-sis/1303" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/1303_353_synergy-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> Synergy Info Systems (SIS)</h3>
+								<a href="http://www.jobsnepal.com/hotjob/qa-analyst/97419" title="QA Analyst" target="_blank">QA Analyst</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/mercy-corps/3815" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/3815_207_mercy-logo-thumsnail.jpg" />
+			</a>
+			<div class="content">
+								<h3> Mercy Corps</h3>
+								<a href="http://www.jobsnepal.com/hotjob/market-and-finance/97413" title="Market and Finance" target="_blank">Market and Finance</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/rti-international/7155" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7155_114_RTI.jpg" />
+			</a>
+			<div class="content">
+								<h3> RTI International</h3>
+								<a href="http://www.jobsnepal.com/hotjob/finance-assistant/97412" title="Finance Assistant" target="_blank">Finance Assistant</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/medair/9379" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9379_688_Medair-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> Medair</h3>
+								<a href="http://www.jobsnepal.com/hotjob/shelter-advisor-nepal/97410" title="Shelter Advisor Nepal" target="_blank">Shelter Advisor Nepal</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/oxfam-in-nepal/7963" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7963_256_oxfam-2.jpg" />
+			</a>
+			<div class="content">
+								<h3> Oxfam in Nepal</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/invitation-for-tender-oxfam-gb/97409" title="Invitation for Tender  - Oxfam GB" target="_blank">Invitation for Tender  - Oxfam GB</a></li><li><a href="http://www.jobsnepal.com/hotjob/finance-assistant/97368" title="Finance Assistant" target="_blank">Finance Assistant</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/rmo-dfid-giz/9384" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9384_687_giz_-_dfid.png" />
+			</a>
+			<div class="content">
+							<h3> RMO (DFID-GIZ)</h3>
+								<a href="http://www.jobsnepal.com/hotjob/regional-risk-management-officer/97365" title="REGIONAL RISK MANAGEMENT OFFICER" target="_blank">REGIONAL RISK MANAGEMENT OFFICER</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/we-world-onlus/9382" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9382_686_We-world-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> We World Onlus</h3>
+								<a href="http://www.jobsnepal.com/hotjob/driver/97358" title="Driver" target="_blank">Driver</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/dotmark-solutions/6820" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/6820_100_dotmark 1.jpg" />
+			</a>
+			<div class="content">
+								<h3> DOTMARK  SOLUTIONS</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/php-programmer/97356" title="PHP Programmer " target="_blank">PHP Programmer </a></li><li><a href="http://www.jobsnepal.com/hotjob/php-programmer/97081" title="PHP Programmer " target="_blank">PHP Programmer </a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/kathmandu-alfa-beta-institute-pvt-ltd/2477" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/2477_663_alfa-beta-thumsnail.jpg" />
+			</a>
+			<div class="content">
+								<h3> Kathmandu Alfa Beta Institute Pvt.  Ltd.</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/manager-assistant-manager-and-counselors/97354" title="MANAGER,ASSISTANT MANAGER AND COUNSELORS" target="_blank">MANAGER,ASSISTANT MANAGER AND COUNSELORS</a></li><li><a href="http://www.jobsnepal.com/hotjob/visa-documentation/97318" title="VISA DOCUMENTATION" target="_blank">VISA DOCUMENTATION</a></li><li><a href="http://www.jobsnepal.com/hotjob/counselors-and-visa-documentation/97317" title="COUNSELORS AND VISA DOCUMENTATION" target="_blank">COUNSELORS AND VISA DOCUMENTATION</a></li></ul><a href="#" class="see-more">See All (3)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/nepal-council-of-arbitration/9381" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9381_685_NEPCA-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> Nepal Council of Arbitration</h3>
+								<a href="http://www.jobsnepal.com/hotjob/office-manager/97349" title="Office Manager" target="_blank">Office Manager</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/tulips-technologies-p-ltd/4581" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/4581_202_tulip.jpg" />
+			</a>
+			<div class="content">
+								<h3> Tulips Technologies P. Ltd</h3>
+								<a href="http://www.jobsnepal.com/hotjob/php-wordpress-asp-net-css/97308" title="PHP/Wordpress | ASP.NET | CSS" target="_blank">PHP/Wordpress | ASP.NET | CSS</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/ahf-nepal/8780" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8780_475_AHF-Nepal-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> AHF Nepal</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/staff-nurse/97294" title="Staff Nurse " target="_blank">Staff Nurse </a></li><li><a href="http://www.jobsnepal.com/hotjob/driver/97293" title="Driver " target="_blank">Driver </a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/kathmandu-animal-treatment-centre/9373" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9373_682_KAT-logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> Kathmandu Animal Treatment Centre</h3>
+								<a href="http://www.jobsnepal.com/hotjob/assistant-manager/97206" title="Assistant manager " target="_blank">Assistant manager </a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/nepal-red-cross-society-cehp/9061" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9061_572_rc_logo_hot_job.jpg" />
+			</a>
+			<div class="content">
+								<h3> Nepal Red Cross Society - CEHP</h3>
+								<a href="http://www.jobsnepal.com/hotjob/secretary/97305" title="Secretary" target="_blank">Secretary</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/environment-and-public-health-organization/5210" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/5210_170_Enpho_Logo.jpg" />
+			</a>
+			<div class="content">
+								<h3> Environment and Public Health Organization</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/assistant-wash-training-officer/97245" title="Assistant WASH Training Officer" target="_blank">Assistant WASH Training Officer</a></li><li><a href="http://www.jobsnepal.com/hotjob/assistant-planning-monitoring-and-evaluation-officer/97244" title="Assistant Planning, Monitoring and Evaluation Officer " target="_blank">Assistant Planning, Monitoring and Evaluation Officer </a></li><li><a href="http://www.jobsnepal.com/hotjob/planning-monitoring-and-evaluation-officer/97243" title="Planning, Monitoring and Evaluation Officer" target="_blank">Planning, Monitoring and Evaluation Officer</a></li></ul><a href="#" class="see-more">See All (3)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/ambarkaar-software-pvt-ltd/9372" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9372_683_asp1.jpg" />
+			</a>
+			<div class="content">
+								<h3> Ambarkaar Software Pvt. Ltd.</h3>
+								<a href="http://www.jobsnepal.com/hotjob/software-engineer/97226" title="Software Engineer" target="_blank">Software Engineer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/aecc-global/9273" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9273_641_AECC-Global-Education-VISA-TRANSPARENT_small.jpg" />
+			</a>
+			<div class="content">
+								<h3> AECC Global</h3>
+								<a href="http://www.jobsnepal.com/hotjob/counselor-telecallers/97211" title="Counselor & Telecallers" target="_blank">Counselor & Telecallers</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/primus-networks-pvt-ltd/9371" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9371_680_9371_300x300-02.jpg" />
+			</a>
+			<div class="content">
+								<h3> Primus Networks Pvt.Ltd.</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/graphic-designer/97171" title="Graphic Designer" target="_blank">Graphic Designer</a></li><li><a href="http://www.jobsnepal.com/hotjob/web-master/97172" title="Web Master" target="_blank">Web Master</a></li><li><a href="http://www.jobsnepal.com/hotjob/it-network-administrator/97173" title="IT / Network Administrator" target="_blank">IT / Network Administrator</a></li></ul><a href="#" class="see-more">See All (3)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/international-friendship-children-hospital-pvt-ltd/8793" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8793_534_374438_202740183223725_461887385_n.png" />
+			</a>
+			<div class="content">
+								<h3> International Friendship Children Hospital Pvt. Ltd</h3>
+								<a href="http://www.jobsnepal.com/hotjob/network-assistance/97165" title="Network assistance" target="_blank">Network assistance</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/podamibe-nepal/8577" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8577_493_logo-podamibe.jpg" />
+			</a>
+			<div class="content">
+								<h3> Podamibe Nepal </h3>
+								<a href="http://www.jobsnepal.com/hotjob/php-wordpress-developer/97159" title="PhP /Wordpress Developer" target="_blank">PhP /Wordpress Developer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/element-7-digital-nepal/8989" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8989_552_robust.gif1.gif" />
+			</a>
+			<div class="content">
+								<h3> Element 7 Digital Nepal</h3>
+								<a href="http://www.jobsnepal.com/hotjob/agile-project-manager-sr-php-developer/97139" title="Agile Project Manager/Sr.PHP Developer" target="_blank">Agile Project Manager/Sr.PHP Developer</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/view9-pvt-ltd/7744" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7744_274_logo-70-50.jpg" />
+			</a>
+			<div class="content">
+								<h3> View9 Pvt. Ltd.</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/sr-web-designer/97133" title="Sr. Web Designer" target="_blank">Sr. Web Designer</a></li><li><a href="http://www.jobsnepal.com/hotjob/php-developer/96954" title="PHP Developer" target="_blank">PHP Developer</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/lis-nepal-pvt-ltd-sister-concern-of-yomari-group-of-companies/8922" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8922_528_LIS_Nepal_logo.gif" />
+			</a>
+			<div class="content">
+								<h3> LIS Nepal Pvt. Ltd. (Sister Concern of Yomari Group of Companies)</h3>
+								<a href="http://www.jobsnepal.com/hotjob/project-lead/96958" title="PROJECT LEAD" target="_blank">PROJECT LEAD</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9347_678_JOb-Opening-logo.jpg" />
+			</a>
+			<div class="content">
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/mobile-developer-android-ios/96904" title="Mobile Developer (Android / IOS)" target="_blank">Mobile Developer (Android / IOS)</a></li><li><a href="http://www.jobsnepal.com/hotjob/dot-net-developer-asp-c-net/96902" title="Dot Net Developer (ASP, c#.NET)" target="_blank">Dot Net Developer (ASP, c#.NET)</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/aarughat-hospital-diagnostic-centre-gorkha/7069" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7069_547_aarughat-logo-edited.jpg" />
+			</a>
+			<div class="content">
+								<h3> Aarughat Hospital & Diagnostic Centre, Gorkha</h3>
+								<a href="http://www.jobsnepal.com/hotjob/dental-hygienist-medical-officer/96878" title="Dental Hygienist/ Medical Officer " target="_blank">Dental Hygienist/ Medical Officer </a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/nine-nepal-pvt-ltd/9355" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/9355_677_image001.gif" />
+			</a>
+			<div class="content">
+								<h3> Nine Nepal Pvt. Ltd.</h3>
+								<a href="http://www.jobsnepal.com/hotjob/marketing-officer/96876" title="Marketing Officer" target="_blank">Marketing Officer</a>			</div>			
+		</div>
+				<div class="company-item multiple">
+			<a href="http://www.jobsnepal.com/employer/pointclickcare/8926" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/8926_539_point-click-logo-edited.jpg" />
+			</a>
+			<div class="content">
+								<h3> PointClickCare</h3>
+								<ul><li><a href="http://www.jobsnepal.com/hotjob/java-developer/96874" title="Java Developer" target="_blank">Java Developer</a></li><li><a href="http://www.jobsnepal.com/hotjob/senior-java-developer/96873" title="Senior Java Developer" target="_blank">Senior Java Developer</a></li></ul><a href="#" class="see-more">See All (2)</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/spi-nepal-pvt-ltd/4411" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/4411_141_spith.jpg" />
+			</a>
+			<div class="content">
+								<h3> SPI Nepal Pvt Ltd</h3>
+								<a href="http://www.jobsnepal.com/hotjob/system-engineer/96860" title="System Engineer" target="_blank">System Engineer</a>			</div>			
+		</div>
+				<div class="company-item">
+			<a href="http://www.jobsnepal.com/employer/agile-it-solutions/7818" class="logo" target="_blank">
+				<img src="http://www.jobsnepal.com/banner/logo/7818_342_agile-IT-1.jpg" />
+			</a>
+			<div class="content">
+								<h3> Agile IT Solutions</h3>
+								<a href="http://www.jobsnepal.com/hotjob/various-openings-at-agile-it-solutions/96817" title="Various Openings at Agile IT Solutions" target="_blank">Various Openings at Agile IT Solutions</a>			</div>			
+		</div>
+			</div>
+	
+</div>
+<script>
+/**
+ * Scroller variables */
+speed 		= 600; 
+pause_time 	= 5000;
+
+
+/*---------------------*/
+optimize_theHotList();
+
+function optimize_theHotList()
+{
+	centerContent_height = $('#main-content-wrapper').height();
+	hotJobBox_height = $('#hot-jobs-content-holder').outerHeight();
+	hjHeader_height = $('#hotjobs-box-header').height();
+	
+	if(hotJobBox_height > centerContent_height)
+	{
+		$('#hotjobList').height(centerContent_height - hjHeader_height-50);
+	}
+	$('.hotjobs-box').height($('#hotjobList').outerHeight() + hjHeader_height + 50);
+}
+
+function circulate_list(options) 
+{
+	if(!options.list.jquery)
+		options.list = $(options.list);
+
+	if(!options.listitem.jquery)
+		options.listitem = $(options.listitem);
+
+	if(!options.listitem.length) return;
+
+	listitem_first = $(options.listitem[0]);	
+	if( options.mini_list == true )
+	{
+		listitem_first.animate({
+			'margin-top': '-' + listitem_first.outerHeight()
+			}, speed, function(){
+				options.list.append(listitem_first);
+				listitem_first.css('margin-top', 0).addClass('on-the-way');
+				//listitem_first.parents('.multiple').find('a.see-more').slideDown();
+		});
+	}
+	else
+	{
+		if(listitem_first.hasClass('multiple') )
+		{
+			if(listitem_first.find('li:not(.on-the-way)').length > 1)
+			{
+				circulate_list({
+					list: listitem_first.find('ul'),
+					listitem: listitem_first.find('li'),
+					speed: 'fast',
+					mini_list:true
+				});
+			}
+			else
+			{
+				listitem_first.find('a.see-more').slideUp();
+				listitem_first.animate({
+					'margin-top': '-' + listitem_first.outerHeight()
+					}, speed, function(){
+						options.list.append(listitem_first);
+						listitem_first.css('margin-top', 0);
+						listitem_first.find('.on-the-way').each(function(){
+							$(this).removeClass('on-the-way');
+						});
+				});	
+			}
+		}
+		else
+		{
+			listitem_first.animate({
+				'margin-top': '-' + listitem_first.outerHeight()
+				}, speed, function(){
+					options.list.append(listitem_first);
+					listitem_first.css('margin-top', 0);
+			});
+		}
+		
+	}
+}
+the_interval = 0;
+$(function(){
+
+	the_interval = setInterval(function(){
+		circulate_list({
+			list: '#hotjobList', 
+			listitem: '.company-item', 
+			speed: speed});
+	}, pause_time);
+
+	$('#hotjobList .company-item').hover(function(ev){
+	    clearInterval(the_interval);
+	}, function(ev){
+	    the_interval = setInterval(function(){
+			circulate_list({
+				list: '#hotjobList', 
+				listitem: '.company-item', 
+				speed: speed});
+		}, pause_time);
+	});
+
+	$('a.see-more').click(function(){
+		list = $(this).parents('.multiple');
+		list.find('.on-the-way').removeClass('on-the-way');
+		$(this).slideUp();
+	});
+});
+</script>
+		<div id="post-loading-temp-containerjn" style="display: none;">		</div>
+        
+	</div>
+
+	<div id="footer-wrapper" class="mw">
+		<div id="footer">
+			<div class="footer-info">Copyright © 2000-2016 JobsNepal.com. All rights reserved. </div>
+<ul class="footer-links">	
+	<li><a href="http://www.jobsnepal.com/">Home</a> </li>
+	<li><a href="http://www.jobsnepal.com/about-us">About Us</a> </li>
+	<li><a href="http://www.jobsnepal.com/advertise">Advertise</a> </li>
+	<li><a href="http://www.jobsnepal.com/contact-us">Contact Us</a></li>	
+	<li><a href="http://www.jobsnepal.com/frequently-asked-questions">FAQ</a> </li>	
+</ul>
+
+<div class="social-links">
+	<a title="Follow us on Facebook" href="https://www.facebook.com/jobsnepalcom" class="facebook-link" target="_blank"></a>
+	<a title="Follow us on Twitter" href="https://twitter.com/JobsNepaldotcom" class="twitter-link" target="_blank"></a>
+	<a title="Follow us on Google Plus" href="https://plus.google.com/104004954657414581456/" class="g-plus-link" target="_blank"></a>
+	<a title="Follow us on Linked In" href="http://www.linkedin.com/company/jobnepal-com" class="linkedin-link" target="_blank"></a>
+	<a title="Our RSS feeds" href="http://www.jobsnepal.com/rss" class="rss-link" target="_blank" target="_blank"></a>
+</div>		</div>
+	</div>
+</div>
+<!-- jn-wrapper -->
+
+	<div id="JNForgotPasswordDiv" title="Forgot Password" style="background: #ffffff;display:none">
+	<div style="display: none" id="DivPWMSG" class="notice"></div>
+	<div id="JNForgotPasswordFormWrapper">
+		<form id="JNForgotPasswordForm" action="index.php?method=ForgotPassword" method="post">
+			<table class="form">
+			<tr>
+			    <td colspan="2">
+			    	<b><u>Get a Password</u></b><br/>
+			    	To have your password sent to you, simply enter the same email address you used
+	                when you signed up for your account. Your password will be mailed to you at the
+	                address you enter.
+	            </td>
+			</tr>
+			<tr>
+			    <td>Email:</td>
+				<td><input type="text" name="UserEmail" id="UserEmail" size="40"></td>
+			</tr>
+			
+			</table>
+		</form>
+	</div>
+</div>
+	
+	<div id="go-to-top-button" title="Go to top"><span></span></div>
+
+	
+	<script src="http://www.jobsnepal.com/js/jui/js/jquery-ui-1.10.0.custom.min.js"></script>
+	<script type="text/javascript" src="http://www.jobsnepal.com/js/jn.js?v=1386537555"></script>
+	<script type="text/javascript" src="http://www.jobsnepal.com/js/jn_front.js?v=1384487309"></script>
+
+	<script>
+		
+
+		$(function(){
+			$('#list-of-items-left').html('<div><a class="adv-left" target="_blank" href="https://broadwayinfosys.com/?utm_source=jobsnepal&utm_medium=banner&utm_campaign=companyad" ><img src="http://www.asianart.com/bannersys/pictures/broadway.gif" /></a></div><div><a class="adv-left" target="_blank" href="http://kulchan.com/?ref=jobsnepal" ><img src="http://www.asianart.com/bannersys/pictures/kulchan.gif" /></a></div><div><a class="adv-left" target="_blank" href="http://samriddhicollege.edu.np" ><img src="http://www.asianart.com/bannersys/pictures/samriddhi.gif" /></a></div><div><a class="adv-left" target="_blank" href="http://www.jobsnepal.com/advertise.php" ><img src="http://www.asianart.com/bannersys/pictures/154_jobsnepal.gif" /></a></div><div><a class="adv-left" target="_blank" href="http://www.haatemaalo.com" ><img src="http://www.asianart.com/bannersys/pictures/haatemaalo.jpg" /></a></div>');
+			_jobDesc = [];
+					});
+
+		function sendPasswordButton_click(e)
+		{
+			email = $('#UserEmail').val();
+
+			if(!email) 
+			{
+				$('#UserEmail').focus();
+				return false;
+			}
+      		
+      		msgC.addClass('ajax-loader-big');
+      		msgC.html('');
+      		msgC.fadeIn(150);
+      		
+      		formW.slideUp(150);
+      		sbtn.button("disable");
+			dlg.resize();
+
+			$.ajax({
+				url: 'http://www.jobsnepal.com/index.php?method=ForgotPassword',
+				type: 'POST',
+				data: ({'UserEmail' : email}),
+				success: function(x){
+					msgC.removeClass('ajax-loader-big');
+					msgC.html(fp_messages[x]);
+					if(x== 1)//success
+					{
+						setTimeout(closeDialog, 2000);
+					}
+					else
+					{
+						formW.show(200);
+						sbtn.button("enable");
+					}
+
+				},
+				error: function(){
+					dlg.dialog( "close" );
+				}					
+			});
+		}
+	</script>
+	<script type="text/javascript" src="http://www.jobsnepal.com/education/skin/js/slides.min.jquery.js"></script>
+	<script>
+		/* Homepage Content Slider */
+		$(function(){
+			if( $('.the-x1block-div').length )
+			{
+				$('.the-x1block-div').insertBefore('#main-content-wrapper').slideDown(function(){
+					//alert('completed');
+					$('#slides').slides({
+						preload: true,
+						play: 9000
+					});
+				});
+			}
+		});
+	</script>
+	<!-- Facebook SDK -->
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+
+	<!-- Google Anylatics -->
+	<script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-39544389-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+	</script>
+	</body>
+</html>
